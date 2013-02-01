@@ -1,0 +1,4 @@
+minecraftLauncher
+=================
+
+A simple Launcher =)
