@@ -1,0 +1,13 @@
+C:\Gustavo\SugarSync\Projetos\minecraftLauncher\minecraftLauncher\bin\Debug\minecraftLauncher.exe
+C:\Gustavo\SugarSync\Projetos\minecraftLauncher\minecraftLauncher\bin\Debug\minecraftLauncher.pdb
+C:\Gustavo\SugarSync\Projetos\minecraftLauncher\minecraftLauncher\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Gustavo\SugarSync\Projetos\minecraftLauncher\minecraftLauncher\obj\x86\Debug\minecraftLauncher.Form1.resources
+C:\Gustavo\SugarSync\Projetos\minecraftLauncher\minecraftLauncher\obj\x86\Debug\minecraftLauncher.Properties.Resources.resources
+C:\Gustavo\SugarSync\Projetos\minecraftLauncher\minecraftLauncher\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Gustavo\SugarSync\Projetos\minecraftLauncher\minecraftLauncher\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Gustavo\SugarSync\Projetos\minecraftLauncher\minecraftLauncher\obj\x86\Debug\minecraftLauncher.exe
+C:\Gustavo\SugarSync\Projetos\minecraftLauncher\minecraftLauncher\obj\x86\Debug\minecraftLauncher.pdb
+C:\Gustavo\SugarSync\Projetos\minecraftLauncher\minecraftLauncher\bin\Debug\minecraftLauncher.exe.manifest
+C:\Gustavo\SugarSync\Projetos\minecraftLauncher\minecraftLauncher\bin\Debug\minecraftLauncher.application
+C:\Gustavo\SugarSync\Projetos\minecraftLauncher\minecraftLauncher\obj\x86\Debug\minecraftLauncher.exe.manifest
+C:\Gustavo\SugarSync\Projetos\minecraftLauncher\minecraftLauncher\obj\x86\Debug\minecraftLauncher.application
