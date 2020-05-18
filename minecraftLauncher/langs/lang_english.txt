@@ -1,0 +1,9 @@
+﻿Run!
+Close
+About...
+Remember
+1 - This simple launcher was created to let you change your nick in Multiplayer
+2 - If you play Multiplayer with a custom nickname, you can lose all your items
+Enjoy!
+Oops, wrong nick
+Error
