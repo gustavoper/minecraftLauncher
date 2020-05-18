@@ -38,6 +38,7 @@
             this.label3 = new System.Windows.Forms.Label();
             this.button1 = new System.Windows.Forms.Button();
             this.label4 = new System.Windows.Forms.Label();
+            this.languageButton = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -120,15 +121,26 @@
             this.label4.AutoSize = true;
             this.label4.Location = new System.Drawing.Point(-3, 280);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(89, 13);
+            this.label4.Size = new System.Drawing.Size(122, 13);
             this.label4.TabIndex = 8;
-            this.label4.Text = "2013 - ehmuidifici";
+            this.label4.Text = "2013 - 2020 - ehmuidifici";
+            // 
+            // languageButton
+            // 
+            this.languageButton.Location = new System.Drawing.Point(12, 254);
+            this.languageButton.Name = "languageButton";
+            this.languageButton.Size = new System.Drawing.Size(35, 23);
+            this.languageButton.TabIndex = 9;
+            this.languageButton.Text = "EN";
+            this.languageButton.UseVisualStyleBackColor = true;
+            this.languageButton.Click += new System.EventHandler(this.languageButton_Click);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(550, 293);
+            this.Controls.Add(this.languageButton);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.label3);
@@ -162,6 +174,7 @@
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Label label4;
+        private System.Windows.Forms.Button languageButton;
     }
 }
 
